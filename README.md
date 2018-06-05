@@ -1,7 +1,7 @@
 # Microsoft-Cloud-Society
 Any MS Cloud Society related code.
 
-Started by doing DEV295x training; embedded devices based on RaspberryPi and c-code.
+DEV295x training; embedded devices based on RaspberryPi 3B with c-code.
 Completed the course easily found it a bit light.
 
 NOTEWORTHY: Gained useful exposure to the open-source WiringPI c-library from WiringPi.com especially for RaspberryPI
