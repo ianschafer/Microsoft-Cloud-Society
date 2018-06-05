@@ -1,4 +1,4 @@
-Refer:
+Refer open-source c-libraries for raspberryPI:
 
 http://wiringpi.com
 
